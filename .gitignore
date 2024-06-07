@@ -11,6 +11,7 @@ logs/*.log
 
 # Dependency directories
 node_modules/
+.env
 jspm_packages/
 
 # Optional npm cache directory
